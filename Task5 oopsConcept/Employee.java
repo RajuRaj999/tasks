@@ -4,7 +4,9 @@ public class Employee  extends Employer{
 
 	@Override
 	public void salary() {
-		System.out.println("yes boss salary is credited");
+		System.out.println("yes boss salary is credited ");
+		System.out.println("Thank you boss ");
+		
 		
 		
 	}
